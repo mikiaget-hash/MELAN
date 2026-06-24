@@ -1,0 +1,6 @@
+{
+  "name": "Melan Coffee & Patisserie",
+  "description": "A premium specialty coffee house and artisan bakery website in Addis Ababa, Ethiopia, combining modern luxury with traditional Ethiopian coffee culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
